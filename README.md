@@ -52,3 +52,15 @@ It analyzes different features of a URL and provides:
 ---
 
 ## 📂 Project Structure
+
+Cyber Security Project/
+│
+├── app.py # Flask web application
+├── model.py # ML model training
+├── utils.py # Feature extraction logic
+├── data.csv # Dataset
+├── phishing_model.pkl # Trained model
+├── templates/
+│ └── index.html # Frontend UI
+
+
